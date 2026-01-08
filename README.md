@@ -11,15 +11,15 @@ Hey there! I'm TK, a passionate learner diving into the world of Full Stack Deve
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrScr1pt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+*Badges will appear once you have public contributions! For now, check out my repos below.*
 
 ## 🏆 Achievements & Badges
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=MrScr1pt&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## 📈 Contributor Stats
+## 👀 Profile Views
 
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=MrScr1pt&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Profile Views](https://komarev.com/ghpvc/?username=MrScr1pt&color=blue&style=flat)
 
 ## 🔧 Tech Stack & Tools
 
