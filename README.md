@@ -1,6 +1,6 @@
 # I'm TK  A Deckhand learning full-stack development
 
-Im TK, learning full-stack web development while working as a deckhand.
+I'm TK, learning full-stack web development while working as a deckhand.
 My background in hands-on, real-world work shapes how I approach code: practical, detail-oriented, and focused on solving real problems.
 This GitHub is where I document what I learn and build small projects as I go.
 
