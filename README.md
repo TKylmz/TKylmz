@@ -24,11 +24,6 @@ Working on JavaScript fundamentals and building small web applications.
 - [FullStack Progress](https://github.com/TKylmz/FullStack-Progress)  Repository for notes, projects, and templates as I learn.
 - [TKLocalAI](https://github.com/TKylmz/TKLocalAI)  Local AI tools and experiments.
 
-## Contact
-
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-
 ## Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TKylmz&theme=dark)
