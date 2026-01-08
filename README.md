@@ -1,6 +1,8 @@
-# TK
+# I''m TK  A Deckhand learning full-stack development
 
-I am learning full stack development following the [roadmap.sh](https://roadmap.sh/full-stack) guide. This profile documents my progress through projects and notes.
+Im TK, learning full-stack web development while working as a deckhand.
+My background in hands-on, real-world work shapes how I approach code: practical, detail-oriented, and focused on solving real problems.
+This GitHub is where I document what I learn and build small projects as I go.
 
 ## Using
 
@@ -19,7 +21,8 @@ Working on JavaScript fundamentals and building small web applications.
 
 ## Projects
 
-- [FullStack Progress](https://github.com/MrScr1pt/FullStack-Progress)  Repository for notes, projects, and templates as I learn.
+- [FullStack Progress](https://github.com/TKylmz/FullStack-Progress)  Repository for notes, projects, and templates as I learn.
+- [TKLocalAI](https://github.com/TKylmz/TKLocalAI)  Local AI tools and experiments.
 
 ## Contact
 
@@ -28,6 +31,6 @@ Working on JavaScript fundamentals and building small web applications.
 
 ## Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrScr1pt&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TKylmz&theme=dark)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MrScr1pt&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=TKylmz&color=blue&style=flat)
