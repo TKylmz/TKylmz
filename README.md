@@ -21,11 +21,6 @@ Working on JavaScript fundamentals and building small web applications.
 
 - [FullStack Progress](https://github.com/MrScr1pt/FullStack-Progress)  Repository for notes, projects, and templates as I learn.
 
-## Contact
-
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-
 ## Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrScr1pt&theme=dark)
