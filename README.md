@@ -9,13 +9,9 @@ Hey there! I'm TK, a passionate learner diving into the world of Full Stack Deve
 - **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
 - **Discord**: Join my server for coding chats — [Invite Link](https://discord.gg/yourinvite)
 
-## 📊 GitHub Stats
+## � GitHub Streak
 
-*Badges will appear once you have public contributions! For now, check out my repos below.*
-
-## 🏆 Achievements & Badges
-
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=MrScr1pt&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrScr1pt&theme=dark)
 
 ## 👀 Profile Views
 
